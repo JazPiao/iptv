@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MBNKR" tvg-name="MBN" tvg-logo="Logo URL" group-title="韩国频道",MBN
-https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODExODYyM30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=XypXHdKsD3zkz1nXFKr7Vl9LATwWCKnPVkw0FGd0C1kidWPRg63MYe0b9FFGWJGqWoYZDNbWfIk8oTknUA7RNHCIX2~QnZvp9JkH1gZKnQam0xpO81aoHUhaHng1Xi1IyiuyxfnfwC23hjR9A5NYXn6w~YbjQDHSsaqCl0osoRw_&Key-Pair-Id=pub_hls-live.mbn.co.kr
+https://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc3ODIwNTI1N30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=kjnroxGfDgqmLAFpMFoLfLi9Vrt5BG2KuC0LBTTHISOy6c9y5rY6G~FIlqEsq7TqXd27aHd8AFbuVG3W-IuLd5evik54QSweoR~jmkeRIrc-ypXVQY98hGnAYLsXVQS5UAPt~AIzO8gC0f57QwWXm52COFlEvSSDhHkleoEWxXg_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 #EXTINF:-1 tvg-id="NBSKR" tvg-name="NBS" tvg-logoLogo URL" group-title="韩国频道",NBS
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCKR" tvg-name="MBC" tvg-logo="Logo URL" group-title="韩国频道",MBC
